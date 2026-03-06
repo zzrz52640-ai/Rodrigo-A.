@@ -1,4 +1,4 @@
-# Rodrigo-A.
+# Meu nome é Rodrigo, tenho 17 anos, sou estudante 3° ano do ensino médio, consegui abrir um site por um curto período de tempo usando django
 ## Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Contato
