@@ -1,7 +1,11 @@
-# Meu nome é Rodrigo, tenho 17 anos, sou estudante 3° ano do ensino médio, consegui abrir um site por um curto período de tempo usando django
-## Tecnologias
+# Olá, eu sou o Rodrigo!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python e Java
+- Preparando-se para o mercado de tecnologia
+- Contato: zzrz52640@gmail.com
 ![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
-![HTML](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)
-![CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
-## Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.furtoso@etec.sp.gov.br)
+![Java]  <img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+## Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rz-zz-859a573b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:zzrz52640@gmail.com) 
