@@ -3,7 +3,6 @@
 - Focado em Python e Java
 - Preparando-se para o mercado de tecnologia
 - Contato: zzrz52640@gmail.com
-- 
 ## Tecnologias que estudo
 
 <div style="display: inline_block"><br>
